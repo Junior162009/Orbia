@@ -1,0 +1,6 @@
+{
+  "name": "ORBIA Campus Digital",
+  "description": "Plataforma educativa institucional integral con foro académico, gestión docente y centro de coordinación académica y convivencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
